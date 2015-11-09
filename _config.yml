@@ -1,0 +1,23 @@
+name: dallinlauritzen
+favicon: null
+layout_spectrum: 0.6889364577364177
+typography_spectrum: 0.5722099696286023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.30776555789634585
+  lightness: 0.8108151881024241
+  saturation: 0.36241524922661483
+  rhythmicContrast: 0.554648318560794
+purpose: []
