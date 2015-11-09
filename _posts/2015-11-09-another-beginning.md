@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-09T23:40:52.601Z'
-dateModified: '2015-11-09T23:40:39.008Z'
+datePublished: '2015-11-09T23:43:40.176Z'
+dateModified: '2015-11-09T23:43:34.563Z'
 title: Another Beginning
+sourcePath: _posts/2015-11-09-another-beginning.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-09-another-beginning.md
-published: true
-url: another-beginning/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Another Beginning
