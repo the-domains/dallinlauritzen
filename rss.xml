@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[my grid]]></title>
+        <description><![CDATA[my grid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 Nov 2015 00:06:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Beginning]]></title>
+            <description><![CDATA[<article><h1>Another Beginning</h1><p>London</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b28a2c12-aa2a-4155-afc6-9b6527a1c398.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/London</link>
+            <guid isPermaLink="false">25b7b4f8-9323-4b6c-b551-7f5c46de9138</guid>
+            <pubDate>Tue, 10 Nov 2015 00:06:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
