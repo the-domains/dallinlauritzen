@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-11-10T00:07:55.448Z'
-dateModified: '2015-11-10T00:07:51.667Z'
+description: 'Next week (16 November 2015) I, Dallin Lauritzen, embark on a four-month adventure in Europe. I will face challenges such as living in London, working remotely as a mobile app developer, butchering local languages, and trying to expand my comfort zone.'
+datePublished: '2015-11-10T00:09:08.108Z'
+dateModified: '2015-11-10T00:09:03.575Z'
 title: Another Beginning
 sourcePath: _posts/2015-11-09-another-beginning.md
 published: true
